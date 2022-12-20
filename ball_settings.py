@@ -20,4 +20,3 @@ class Ball(object):
         self.ball.sety(self.ball.ycor() + self.ball.dy)
         return self.ball
 
-

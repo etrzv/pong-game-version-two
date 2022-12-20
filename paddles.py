@@ -1,6 +1,7 @@
 import turtle
 import os
 
+
 paddle_a = turtle.Turtle()
 paddle_a.speed(0)
 paddle_a.shape('square')
